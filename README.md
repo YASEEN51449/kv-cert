@@ -1,5 +1,6 @@
 # kv-cert
 key-vault-certificate-upload
+Key Vault Certificates Officer
 
 # 1.connect to azure account
     Connect-AzAccount -UseDeviceAuthentication
