@@ -4,6 +4,7 @@ Key Vault Certificates Officer
 Key Vault Secrets User
 Key Vault Reader
 Key Vault Certificates Officer
+certmgr.msc
 
 
 # 1.connect to azure account
