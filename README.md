@@ -16,7 +16,7 @@ certmgr.msc
   
     $cert = New-SelfSignedCertificate -DnsName "yourdomain.com" -CertStoreLocation "Cert:\LocalMachine\My"
 
-
+CurrentUser
     $cert
 
 # 3.list certificates list
